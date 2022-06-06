@@ -1,4 +1,7 @@
 # Dota2-charades
+
+<h3>What is Dota 2 Charades?</h3>
+
 A WIP multiplayer browser-based guessing game with questions based upon the video game Dota 2
 Dota 2 Charades is a browser based multiplayer game, where players will take it turns to draw various objects and names from the popular online video game Dota 2.
 
