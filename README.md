@@ -1,17 +1,40 @@
 # Dota2-charades
 
-<h3>What is Dota 2 Charades?</h3>
+<h2>What is Dota 2 Charades?</h2>
 
 A WIP multiplayer browser-based guessing game with questions based upon the video game Dota 2
 Dota 2 Charades is a browser based multiplayer game, where players will take it turns to draw various objects and names from the popular online video game Dota 2.
 
-The final end product weill include the following features:
+<p>I intend to develop this project in stages. I firstly want to create a simple single player game, where a player has to guess the name of various dota 2-related sounds and pictures, which are reandomly chosen by the game. This would still include a scoring system and a stopwatch.</p> 
+<p>I would then like to extend this functionality to real time multiplayer; that is, players on different clients connect and play in a single lobby. At this point I will implement the drawing canvas to introduce other ways of scoring other than typing.</p>
+
+<p>After this, i intend to create an Android version of the game; I think the casual nature of the gameplay lends itself to being enjoyed on mobile device.</p>
+
+This is expressed simply below:
+
+<h3>Timeline</h3>
+Short term goals:<br>
 
 <ul>
-<li>Lobbies with multiple players</li>
-<li>Real time drawing canvas</li>
-<li>Scoreboard and scoring system</li>
-<li>UI contructed with the aid of React</li>
+  <li><p><b>Single-player features</b></p></li>
+    <li>Scoreboard and scoring system</li>
+    <li>UI contructed with the aid of React</li>
+</ul>
+  Medium term goals: <br>
+  <ul>
+  <li><p><b>Multiplayer features</b></p></li>
+    <li>Lobbies with multiple players</li>
+    <li>Real time drawing canvas</li>
+    <li>lobby chat function</li>  
+</ul>
+<ul>
+  <li><b>Long term goals:</b></li>
+  <li>Android version of the application</li>
 </ul>
 <br>
-A mockup of the finished product will follow shortly.
+
+
+
+
+
+Graphical mockups of the finished product and UI will follow shortly.
